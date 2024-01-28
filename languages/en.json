@@ -1,0 +1,17 @@
+{
+    "profile": {
+        "rol": "Full Stack Developer Jr",
+        "description": "Experience in web development. Passionate about new technologies and especially the CSS and JavaScript."
+    },
+    "experience": {
+        "first-job-title": "Back-End Developer",
+        "first-job-dates": "Jan 2000 - Jan 2001",
+        "first-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "second-job-title": "Front-End Developer",
+        "second-job-dates": "Feb 2005 - Feb 2010",
+        "second-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "last-job-title": "Front-End Developer",
+        "last-job-dates": "Mar 2010 - Mar 2020",
+        "last-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    }
+}
